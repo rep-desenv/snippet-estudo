@@ -1,0 +1,13 @@
+{
+	"Mais um teste de snippets": {
+		"scope": "javascript,typescript",
+		"prefix": "teste2",
+		"body": [
+			"//teste para segunodo snippet2.",
+			"var a = $1",
+			"var b = $2",
+			"console.log('222A soma dos valores é: ', a + b);",
+		],
+		"description": "soma de valores para teste de snippet"
+	}
+}
